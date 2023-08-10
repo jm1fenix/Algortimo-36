@@ -8,5 +8,5 @@ function calcular() {
     document.getElementById("resultado").innerHTML = MediadeHoras
     }
     function Voltar(){
-        window.location.href = "menu.html"
+        window.location.href = "index.html"
     }
