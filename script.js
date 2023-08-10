@@ -6,7 +6,7 @@ function calcular() {
     var semana4 = Number(document.getElementById("Semana4").value)
     var MediadeHoras = ((semana1 + semana2 + semana3 + semana4)/4)
     document.getElementById("resultado").innerHTML = MediadeHoras
-    }
+    } 
     function Voltar(){
         window.location.href = "index.html"
     }
